@@ -1,8 +1,8 @@
-git clone https://github.com/Buneta/Buneta.github.io
+~ $ git clone https://github.com/Buneta/Buneta.github.io
 
-cd Buneta.github.io
-echo "Index.html" > index.html
+~ $ cd Buneta.github.io
+~ $ echo "Index.html" > index.html
 
-git add --all
-git commit -m"initial commint"
-git push -u origin master
+~ $ git add --all
+~ $ git commit -m"initial commint"
+~ $ git push -u origin master
