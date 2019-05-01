@@ -1,0 +1,121 @@
+<!doctype html>
+
+<html> 
+
+<!-- TemplateBeginEditable name="code"-->
+  
+<head>
+<title>Project 1</title>
+<link href="../CSS/Stylesheet.css" rel="stylesheet">
+<style type="text/css">
+#top #topnav #nav li a {
+	text-align: center;
+} 
+#top #topnav #nav li a {
+	text-align: center;
+}
+</style>
+<script src="../JS/jquery-1.11.3.min.js"></script>
+<script src="../JS/jssor.slider-27.5.0.min.js"></script>
+<script>
+    jQuery(document).ready(function ($) {
+        var options = { $AutoPlay: 1 };
+        var jssor1_slider = new $JssorSlider$("jssor_1", options);
+    });
+</script>
+
+</head>
+
+ 
+<body>
+ 
+<div id="wrapper">
+
+	<div id="top">
+    	<div id="logo">
+        	<img src=logo>
+        </div>
+
+    <div id="topnav" class="wrap">
+    	<ul id="nav"> 
+        
+        
+        	<li><a href="../Pages/Index.html">Welcome</a></li> 
+            <li><a href="../Pages/About.html">About</a>
+          </li>
+            <li><a href="../Pages/Contact.html">Contact</a>
+          </li>
+            <li><a href="../Pages/Location.html">Location</a>
+          </li>
+            <li><a href="../Pages/Gallery.html">Gallery</a></li>
+            <li><a href="../Pages/Services.html">Services</a></li> 
+            <li><a href="../Pages/FAQ.html">F.A.Q.</a></li> 
+            <li><a href="../Pages/Blog.html">Why Us?</a></li> 
+      </ul>
+          
+          
+    </div>
+<div is="banner" class="Banner"  > 
+<div id="jssor_1" style="position:relative;top:0px;left:0px;width:980px;height:300px;overflow:hidden;">
+    <div data-u="slides" style="position:absolute;top:0px;left:0px;width:980px;height:380px;overflow:hidden;">
+        <div><img data-u="image" src="../Images/Banner/hero-story.jpg" /></div>
+        <div><img data-u="image" src="../Images/Banner/HVAC.jpg" /></div>
+        <div><img data-u="image" src="../Images/Banner/hvac-solutions-17161049.jpg" /></div>
+        <div><img data-u="image" src="../Images/Banner/repair.jpg" /></div>
+    </div>
+</div>
+</div>
+
+</div>
+
+    
+    <div id="contentwrapper">
+    	
+        <div id="content">
+
+
+          
+       	  <h1>Welcom To -----</h1>
+       
+          	 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium nunc eget mi pellentesque vel adipiscing orci tempus. In dapibus porta feugiat. Vestibulum dignissim lorem tortor. Donec eleifend pharetra velit, ac euismod nunc porta ac. Aliquam est mauris, cursus sit amet facilisis nec, euismod in elit. Integer eu pharetra odio. Proin dictum urna non nibh adipiscing laoreet at a dolor. Quisque varius lacus vitae neque accumsan nec tempus quam ullamcorper.</p>
+         
+            <h2>Secondary Content</h2>
+           	 <p>Phasellus pretium nunc eget mi pellentesque vel adipiscing orci tempus. In dapibus porta feugiat. Vestibulum dignissim lorem tortor. Donec eleifend pharetra velit, ac euismod nunc porta ac. Aliquam est mauris, cursus sit amet facilisis nec, euismod in elit. Integer eu pharetra odio. Proin dictum urna non nibh adipiscing laoreet at a dolor. Quisque varius lacus vitae neque accumsan nec tempus quam ullamcorper.</p>
+             
+             <div id="box1">
+             	<img src= box >
+                	<h2>Subheading Item</h2>
+               		      <p>Pellentesque habitant morbi tristique website et web et malesuada fames dreamweaver. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</p> 
+    </div>
+             
+         <div id="box2">
+             	<img src=Box 2 image>
+                	<h2>Subheading Item 2</h2>
+                    	 <p>Pellentesque habitant morbi tristique website et web et malesuada fames dreamweaver. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</p>
+    </div>
+                     <h2>Another Subheading</h2>
+                     <img class="img-right" src=>
+                    	 <p>Phasellus pretium nunc eget mi pellentesque vel adipiscing orci tempus. In dapibus porta feugiat. Vestibulum dignissim lorem tortor. Donec eleifend pharetra velit, ac euismod nunc porta ac. Aliquam est mauris, cursus sit amet facilisis nec, euismod in elit. </p>
+                         <p>Integer eu pharetra odio. Proin dictum urna non nibh adipiscing laoreet at a dolor. Quisque varius lacus vitae neque accumsan nec tempus quam ullamcorper.</p>
+                         <p>This is the final text on the page</p>
+      </div>       
+            
+</div>            
+            
+            
+
+	<div id=footer>
+    		<p>&copy;Copyright 20XX | All Rights Reserved | Company Name 1234 Main Street St. Louis Missouri 6312X | 123.456.7890</p>
+    </div>
+  
+
+</body>
+
+
+<!-- TemplateEndEditable -->
+
+
+
+
+
+</html>
