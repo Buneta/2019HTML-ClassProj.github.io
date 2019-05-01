@@ -1,0 +1,8 @@
+~ $ git clone https://github.com/Buneta/Buneta.github.io
+
+~ $ cd Buneta.github.io
+echo "file" > index.html
+
+git add --all
+git commit -m"initial commint"
+git push -u origin master
