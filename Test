@@ -1,7 +1,7 @@
 ~ $ git clone https://github.com/Buneta/Buneta.github.io
 
 ~ $ cd Buneta.github.io
-echo "file" > index.html
+echo "Index.html" > index.html
 
 git add --all
 git commit -m"initial commint"
