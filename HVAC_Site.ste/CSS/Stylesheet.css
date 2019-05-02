@@ -10,7 +10,7 @@ h2,h3 				{color:#390;}
 h1, h2, h3 			{font-family: 'Quicksand', sans-serif; }
 
 
-#content p			{font-size:18px; line-height:180%;}
+#content p			{font-size:16px; line-height:180%;}
 #rightside p		{font-size:16px; line-height:180%;}
 #rightside li		{font-size:16px; line-height:180%;}
 
@@ -49,6 +49,10 @@ body 				{background:url(../Images/Backround/Tileable%20eroded%20scratch%20metal
 	text-align: center;
 }
 #short		{width:220px; float:right;}
+
+
+
+
 
 
 
