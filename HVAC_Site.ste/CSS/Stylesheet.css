@@ -1,5 +1,9 @@
 #wrapper			{width:900px; margin:0px auto 0px auto; background-color:#fff; padding:0px 40px; border:#000 1px;}
 
+
+#box2		{margin-top:30px; margin-left:-120px;}
+
+
 body				{font-family:Arial, Helvetica, sans-serif; }
 h1					{color:#090;}
 h2,h3 				{color:#390;}
@@ -44,13 +48,7 @@ body 				{background:url(../Images/Backround/Tileable%20eroded%20scratch%20metal
 	color: #060;
 	text-align: center;
 }
-
-.floatRight{ position: absolute; top:380px; left:360px;}
-
-#short		{width:320px;}
-
-
-
+#short		{width:220px; float:right;}
 
 
 
