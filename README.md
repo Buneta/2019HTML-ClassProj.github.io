@@ -1,6 +1,6 @@
 # Buneta.github.io
 HVAC-site
-~ $ git clone https://github.com/Buneta/Buneta.github.io
+~ $ git clone https://buneta.github.io
 
 ~ $ cd Buneta.github.io
 ~ $ echo "Index.html" > index.html
