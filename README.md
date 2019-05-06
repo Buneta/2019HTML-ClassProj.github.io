@@ -1,15 +1,6 @@
-# Buneta.github.io
-HVAC-site
-~ $ git clone https://buneta.github.io/HVAC_Site.ste/Pages/Index.html
+<!doctype html>
 
-~ $ cd Buneta.github.io
-~ $ echo "Index.html" > index.html
-
-~ $ git add --all
-~ $ git commit -m"initial commint"
-~ $ git push -u origin master
+<meta http-equiv="refresh" content="0; URL='https://buneta.github.io/HVAC_Site.ste/Pages/Index.html" />
 
 
-
-
-<!-- InstanceEnd --></html>
+</html>
