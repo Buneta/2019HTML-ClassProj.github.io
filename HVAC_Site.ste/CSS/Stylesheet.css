@@ -35,18 +35,15 @@ body 				{background:url(../Images/Backround/Tileable%20eroded%20scratch%20metal
 
 
 
-	#topnav ul li		{display:block; display:inline; list-style-type:none; padding:0 7.5px 0 7.5px; border:#000 1px }
-		 #topnav	a:link			{font-weight:bold; text-decoration:none; text-transform:uppercase; color:#333; }
+	    #topnav ul li		{display:block; display:inline; list-style-type:none; padding:0 17px 0 0px; border:#000 1px }
+		#topnav	a:link			{font-weight:bold; text-decoration:none; text-transform:uppercase; color:#333; }
 		#topnav a:visited		{font-weight:bold; text-decoration:none;color:#333; }
 		#topnav a:active		{font-weight:bold; text-decoration:none; color:#090; }
 		#topnav a:hover			{font-weight:bold; text-decoration:none; color:#000; }
-		#topnav a:focus			{
-	font-weight: bold;
-	text-decoration: none;
-	color: #060;
-	text-align: center;
-}
+		#topnav a:focus			{font-weight: bold;text-decoration: none;color: #060;text-align: center;}
 #short		{width:220px; float:right;}
+
+
 
 
 
