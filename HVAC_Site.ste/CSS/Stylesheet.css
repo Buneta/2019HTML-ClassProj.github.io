@@ -215,7 +215,7 @@ li:last-child {
 
 
 
-.Banner {display:block; margin-left:-40px; margin-right:50px; width:100%; border-top:thick #000 ; border-bottom:2px ; z-index: 4;}
+.Banner {display:block; margin-left:-40px; margin-right:50px; width:100%; border-top:thick #000 ; border-bottom:2px ; z-index: 0;}
 
 
 
