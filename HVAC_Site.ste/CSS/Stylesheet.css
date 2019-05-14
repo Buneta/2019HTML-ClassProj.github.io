@@ -1,12 +1,16 @@
 #wrapper			{width:900px; margin:0px auto 0px auto; background-color:#fff; padding:0px 40px; border:#000 1px;}
 
 
-.number {
+.number { margin-top:-16px;
   font-size: 72px;
-  background: -webkit-linear-gradient(#eee, #333);
+  background: -webkit-linear-gradient(#0F0, #090);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
+  -webkit-text-fill-color: transparent;  color: black;
+  -webkit-text-fill-color: transparent; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  }
+
 
 
 
